@@ -106,3 +106,4 @@ ENV/
 #Database
 *.sqlite3
 
+.idea/
